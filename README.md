@@ -1,1 +1,1 @@
-# Promotional_Reach_Sales_Analysis
+This was a group project I worked on for BANA 7025: Data Wrangling. It uses Python, Pandas, and the Complete Journey retail grocery dataset. The repository is maintained for personal reference and portfolio purposes. 
